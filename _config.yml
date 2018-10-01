@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Sampath Kumar Kilaparthi
+bio: Grad Student at SBU, A Passionate Engineer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,10 +14,10 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1GYfx0vOoo4uiAt5lLhhwGaA8Pn1Gq5DC/view?usp=sharing
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# url: https://koppl.in/indigo
+your url: http://sampathkumar81293.github.io
 
 permalink: /:title/
 
@@ -48,10 +48,10 @@ github: mygithub
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: sampathkumar81293@gmail.com
 
 authors:
     johndoe:
