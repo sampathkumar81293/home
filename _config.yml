@@ -14,7 +14,8 @@ picture: assets/images/sampath.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1GYfx0vOoo4uiAt5lLhhwGaA8Pn1Gq5DC/view?usp=sharing
+# #resume-url: https://drive.google.com/file/d/1GYfx0vOoo4uiAt5lLhhwGaA8Pn1Gq5DC/view?usp=sharing
+resume-url: https://sampathkumar81293.github.io/resume
 
 # url: https://koppl.in/indigo
 your url: http://sampathkumar81293.github.io
